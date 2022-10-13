@@ -3,10 +3,6 @@
 
 """
 
-Author: Changlili
-Email: changlili@piesat.cn
-Create date: 2022/10/9 14:00
-
 Name:
     modis数据处理
 
